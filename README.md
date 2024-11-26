@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a learning Software / Hardware Engineer and this is my GitHub Profile.
 
 <!--
 **subsea-paul/subsea-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
